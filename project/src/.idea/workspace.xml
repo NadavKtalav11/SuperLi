@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc7a9298-a5d1-4b91-94e0-7d69a6579ea3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PresentationLayer/MainAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/PresentationLayer/MainAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PresentationLayer/UI/Suppliers/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/PresentationLayer/UI/Suppliers/Controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Branch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Branch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/BranchController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/BranchController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/DamagedReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/DamagedReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/DeficiencyReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/DeficiencyReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Discount$DiscountType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Discount$DiscountType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Discount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Discount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Item$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Item$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Item$DamageType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Item$DamageType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Item$Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Item$Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Product$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Product$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Purchase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/PurchasedItemDocumantation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Report.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/Report.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/StockController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/StockController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/StockController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/StockController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/StockReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Stock/StockReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/Contacts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/Contacts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/DeliveryTerms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/DiscountSuppliers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/DiscountSuppliers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/DiscountSuppliersPerOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/DiscountSuppliersPerOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/DiscountSuppliersPerProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/DiscountSuppliersPerProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/Order$OrderStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/Order$OrderStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/OrderConst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/OrderConst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/ProductInOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/ProductInOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/Supplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/Supplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/SupplierCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/SupplierCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/SupplierProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/SuppliersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/BusinessLayer/Suppliers/SuppliersController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/AbstractMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/AbstractMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Stock/BranchDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Stock/BranchDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Stock/CategoryDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Stock/CategoryDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Stock/ProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Stock/ProductDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/DiscountPerSupplierMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/DiscountSupplierMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/DiscountSupplierMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/OrderConstMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/OrderConstMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/OrderMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/OrderMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/ProductInOrderMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/ProductInOrderMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/ProductQuantitiesAndPriceMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/ProductQuantitiesAndPriceMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/ProductSupplierDiscountMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/SupplierCardMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/SupplierCardMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/SupplierContactMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/SupplierContactMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/SupplierControllerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/SupplierMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/SupplierMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DAO/Suppliers/SupplierProductMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/AbstractDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/AbstractDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Stock/BranchDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Stock/BranchDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Stock/CategoryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Stock/CategoryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Stock/ProductDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Stock/ProductDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/DiscountPerSupplierDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/DiscountSupplierDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/DiscountSupplierDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/OrderConstDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/OrderConstDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/OrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/OrderDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/ProductInOrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/ProductInOrderDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/ProductQuantitiesAndPriceDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/ProductQuantitiesAndPriceDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/ProductSupplierDiscountsDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/SupplierCardDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/SupplierCardDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/SupplierContactDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/SupplierContactDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/SupplierControllerDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/SupplierDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/SupplierDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PersistenceLayer/DTO/Suppliers/SupplyProductDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PresentationLayer/Stock/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PresentationLayer/Suppliers/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/ServiceLayer/Stock/BranchService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/ServiceLayer/Stock/BranchService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/ServiceLayer/Stock/StockService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/ServiceLayer/Stock/StockService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/ServiceLayer/Suppliers/SupplierControllerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/ServiceLayer/Suppliers/SupplierControllerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/Tests/Suppliers/SupplierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/Tests/Suppliers/SupplierTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/Tests/Suppliers/SuppliersControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/Tests/Suppliers/SuppliersControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2PsqkdUEqXrygobnh8jUY5yw7ct" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sqlite-jdbc-3.27.2.1.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PresentationLayer.MainAll" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PresentationLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc7a9298-a5d1-4b91-94e0-7d69a6579ea3" name="Changes" comment="" />
+      <created>1684256284895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684256284895</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

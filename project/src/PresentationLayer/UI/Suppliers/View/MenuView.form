@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="PresentationLayer.UI.Suppliers.View.MenuView">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="14" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="20" vgap="15">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="248" y="205" width="650" height="628"/>
+    </constraints>
+    <properties>
+      <enabled value="true"/>
+      <minimumSize width="100" height="100"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="4c2b9" class="javax.swing.JButton" binding="addNewSupplierButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="add new supplier"/>
+        </properties>
+      </component>
+      <component id="71a9e" class="javax.swing.JButton" binding="removeSupplierButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="remove supplier"/>
+        </properties>
+      </component>
+      <component id="86209" class="javax.swing.JButton" binding="lookAtLastOrderButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="look at all system orders"/>
+        </properties>
+      </component>
+      <component id="9cbad" class="javax.swing.JButton" binding="editSupplierButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="edit supplier"/>
+        </properties>
+      </component>
+      <component id="cde7d" class="javax.swing.JButton" binding="addProductToSupplierButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="add product to supplier"/>
+        </properties>
+      </component>
+      <component id="1e983" class="javax.swing.JButton" binding="addDiscountToSupplierButton" default-binding="true">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="add discount to supplier"/>
+        </properties>
+      </component>
+      <component id="a9530" class="javax.swing.JButton" binding="addContactToSupplierButton" default-binding="true">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="add contact to supplier"/>
+        </properties>
+      </component>
+      <component id="62e70" class="javax.swing.JButton" binding="removeContactFromSupplierButton" default-binding="true">
+        <constraints>
+          <grid row="9" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="remove contact from supplier"/>
+        </properties>
+      </component>
+      <component id="72a04" class="javax.swing.JButton" binding="removeDiscountFromSupplierButton" default-binding="true">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="remove discount from supplier"/>
+        </properties>
+      </component>
+      <component id="248c4" class="javax.swing.JButton" binding="exitButton" default-binding="true">
+        <constraints>
+          <grid row="12" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="exit"/>
+        </properties>
+      </component>
+      <vspacer id="76ea6">
+        <constraints>
+          <grid row="11" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <component id="16ec6" class="javax.swing.JButton" binding="removeProductFromSupplierButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="remove product from supplier"/>
+        </properties>
+      </component>
+      <component id="8f9d6" class="javax.swing.JButton" binding="addDiscountToProductButton" default-binding="true">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="add discount to product and supplier"/>
+        </properties>
+      </component>
+      <vspacer id="ce590">
+        <constraints>
+          <grid row="13" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+    </children>
+  </grid>
+</form>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ass2023_v03:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb5f8d34-4c61-4a0d-b7e0-fc0ddc4c4d0e" name="Changes" comment="make jar">
+      <change afterPath="$PROJECT_DIR$/../../release/adss2023_v03.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ass2023_v03_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ass2023_v03_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/project_jar/project.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/project_jar/project.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/project_jar3/project.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/project_jar3/project.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PresentationLayer/MainAll$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PresentationLayer/MainAll$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/PresentationLayer/MainAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/PresentationLayer/MainAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PresentationLayer/MainAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PresentationLayer/MainAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../release/DataBase/superli.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../release/DataBase/superli.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="Gili_3rd_submission" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="Amit_joined" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NezwpRlSq2vI0NlFor7ALxiP1i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gili\OneDrive\Documents\2nd_Year\4th_Semester\ADSS\ADSS_Group_Ss\dev\project\src\Tests\Suppliers" />
+      <recent name="C:\Users\Gili\OneDrive\Documents\2nd_Year\4th_Semester\ADSS\ADSS_Group_Ss\dev\project\src\PersistenceLayer\DTO\Suppliers" />
+      <recent name="C:\Users\Gili\OneDrive\Documents\2nd_Year\4th_Semester\ADSS\ADSS_Group_Ss\dev\project\src\PersistenceLayer\DAO\Suppliers" />
+      <recent name="C:\Users\Gili\OneDrive\Documents\2nd_Year\4th_Semester\ADSS\ADSS_Group_Ss\dev\project\src\BusinessLayer" />
+      <recent name="C:\Users\Gili\OneDrive\Documents\2nd_Year\4th_Semester\ADSS\ADSS_Group_Ss\dev\project\src\BusinessLayer\Suppliers" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\david\Desktop\Semesters\SemesterD\nituz\Assignemnts\Assigment2\ADSS_Group_S\dev\project\DataBase" />
+      <recent name="C:\Users\Gili\OneDrive\Documents\2nd_Year\4th_Semester\ADSS\ADSS_Group_S\dev\project\src\BusinessLayer" />
+      <recent name="C:\Users\Gili\OneDrive\Documents\2nd_Year\4th_Semester\ADSS\ADSS_Group_S\dev\project\src\Tests\Stock" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="PersistenceLayer.DTO" />
+      <recent name="PersistenceLayer" />
+      <recent name="PersistenceLayer.DAO" />
+      <recent name="PresentationLayer.Stock" />
+      <recent name="ServiceLayer.Stock" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="BusinessLayer.Stock" />
+      <recent name="Tests" />
+      <recent name="BusinessLayer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Tests in project">
+    <configuration name="MainAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PresentationLayer.MainAll" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PresentationLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupplierTest.TestAddAndRemoveProductToSupply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Suppliers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Suppliers" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Suppliers.SupplierTest" />
+      <option name="METHOD_NAME" value="TestAddAndRemoveProductToSupply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuppliersControllerTest.SuppliersNextSupplyDayArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Suppliers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Suppliers" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Suppliers.SuppliersControllerTest" />
+      <option name="METHOD_NAME" value="SuppliersNextSupplyDayArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuppliersControllerTest.TestAddAndRemoveContactToSupplier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Suppliers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Suppliers" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Suppliers.SuppliersControllerTest" />
+      <option name="METHOD_NAME" value="TestAddAndRemoveContactToSupplier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests in project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainAll" />
+      <item itemvalue="JUnit.Tests in project" />
+      <item itemvalue="JUnit.SupplierTest.TestAddAndRemoveProductToSupply" />
+      <item itemvalue="JUnit.SuppliersControllerTest.TestAddAndRemoveContactToSupplier" />
+      <item itemvalue="JUnit.SuppliersControllerTest.SuppliersNextSupplyDayArray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests in project" />
+        <item itemvalue="JUnit.SuppliersControllerTest.SuppliersNextSupplyDayArray" />
+        <item itemvalue="JUnit.SuppliersControllerTest.TestAddAndRemoveContactToSupplier" />
+        <item itemvalue="Application.MainAll" />
+        <item itemvalue="JUnit.SupplierTest.TestAddAndRemoveProductToSupply" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb5f8d34-4c61-4a0d-b7e0-fc0ddc4c4d0e" name="Changes" comment="Merge consequences - changing city to address" />
+      <created>1680039579862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680039579862</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Organizing folders">
+      <created>1680505889805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680505889805</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding purchase functions and updating supply functions">
+      <created>1680552265880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680552265880</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADDING TESTS">
+      <created>1681582071136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681582071136</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update purchase price by suppliers in service">
+      <created>1681582847911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681582847911</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adjusting tests to changes">
+      <created>1681674543681</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681674543681</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Extracting JAR">
+      <created>1681675158724</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681675158724</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Extracting JAR (required name)">
+      <created>1681675823316</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681675823316</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Extracting JAR (required name)">
+      <created>1681676013983</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681676013983</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Extracting JAR (change to required name)">
+      <created>1681676123155</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681676123155</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Post FC - adding a product name feedback">
+      <created>1681912414104</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681912414104</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Post FC - adding Stock Report">
+      <created>1681918644014</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681918644014</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Rebasing Amit and Gili before Merge">
+      <created>1683031490584</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683031490584</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge consequences - changing city to address">
+      <created>1683047682363</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683047682363</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Changing classes names">
+      <created>1683048102834</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683048102834</updated>
+    </task>
+    <task id="LOCAL-00015" summary="small fixes">
+      <created>1683538102526</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683538102526</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Adding order aspects">
+      <created>1683546997385</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683546997385</updated>
+    </task>
+    <task id="LOCAL-00017" summary="idk">
+      <created>1683893875573</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683893875573</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Connecting discounts to DAL">
+      <created>1683934544898</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683934544898</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Implementing purchase in DAL">
+      <created>1684011319003</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1684011319003</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fixing orders bugs">
+      <created>1684225366412</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684225366412</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fixing orders bugs">
+      <created>1684229651151</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684229651151</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Load data">
+      <created>1684268941430</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684268941430</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Load data (SetUp methods)">
+      <created>1684277516532</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1684277516532</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merging branches last and IDs">
+      <created>1684309108676</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684309108676</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Creating Main GUI and setUp">
+      <created>1686923648669</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686923648669</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Creating Main GUI and setUp - DATA LOAD">
+      <created>1686992440505</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1686992440505</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Manage Discounts GUI">
+      <created>1687029935660</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1687029935660</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Manage Orders GUI">
+      <created>1687037315730</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1687037315730</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Manage Orders GUI - All">
+      <created>1687248237823</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1687248237823</updated>
+    </task>
+    <task id="LOCAL-00030" summary="make jar">
+      <created>1687372994188</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1687372994188</updated>
+    </task>
+    <task id="LOCAL-00031" summary="make jar">
+      <created>1687373021744</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1687373021744</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Extracting JAR (required name)" />
+    <MESSAGE value="Extracting JAR (change to required name)" />
+    <MESSAGE value="Post FC - adding a product name feedback" />
+    <MESSAGE value="Post FC - adding Stock Report" />
+    <MESSAGE value="Merging branches 318916384_206966004 and 208188326_315401448" />
+    <MESSAGE value="Merge consequences - changing city to address" />
+    <MESSAGE value="Changing classes names" />
+    <MESSAGE value="small fixes" />
+    <MESSAGE value="Adding order aspects" />
+    <MESSAGE value="complete supply receiving" />
+    <MESSAGE value="report dal complete" />
+    <MESSAGE value="idk" />
+    <MESSAGE value="Connecting discounts to DAL" />
+    <MESSAGE value="Implementing purchase in DAL" />
+    <MESSAGE value="fixing orders bugs" />
+    <MESSAGE value="Load data" />
+    <MESSAGE value="Load data (SetUp methods)" />
+    <MESSAGE value="Merging branches" />
+    <MESSAGE value="Merging branches last and IDs" />
+    <MESSAGE value="Creating Main GUI and setUp" />
+    <MESSAGE value="Creating Main GUI and setUp - DATA LOAD" />
+    <MESSAGE value="Manage Discounts GUI" />
+    <MESSAGE value="Manage Orders GUI" />
+    <MESSAGE value="Manage Orders GUI - All" />
+    <MESSAGE value="make jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="make jar" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BusinessLayer/Suppliers/SuppliersController.java</url>
+          <line>443</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((HashMap)productsAndAmountsMapper).entrySet().toArray()[0]" custom="java.util.HashMap" />
+        <watch expression="((HashMap)productsAndAmountsMapper).entrySet().toArray()[0]" custom="java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
